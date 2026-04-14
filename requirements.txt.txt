@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+duckduckgo-search
+langchain-groq
+langchain-community
+litellm
+ddgs
