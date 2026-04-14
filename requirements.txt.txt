@@ -1,8 +1,7 @@
-pydantic==2.4.2
-crewai==0.28.8
-crewai-tools
-duckduckgo-search
+crewai==1.14.1
+crewai-tools==1.14.1
 langchain-groq
 langchain-community
 litellm
 ddgs
+streamlit
