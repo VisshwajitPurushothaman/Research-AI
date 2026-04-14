@@ -1,4 +1,4 @@
-pydantic>=2.4.2
+pydantic==2.4.2
 crewai==0.28.8
 crewai-tools
 duckduckgo-search
