@@ -1,5 +1,5 @@
-crewai==1.14.1
-crewai-tools==1.14.1
+crewai
+crewai-tools
 langchain-groq
 langchain-community
 litellm
